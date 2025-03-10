@@ -16,4 +16,4 @@ Visualização da Lista: Os nomes adicionados serão listados na página, permit
 Sorteio Aleatório: O botão "Sortear Amigo" selecionará aleatoriamente um nome da lista e exibirá o vencedor na tela.
 
 Tecnologias Utilizadas
-Frontend: HTML, CSS, JavaScript.
+Frontend: HTML, CSS, JavaScript e muita vontade!
